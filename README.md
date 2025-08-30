@@ -1,9 +1,9 @@
 # 💻 Taksaphorn Thaipakdee
 
-🎓 Sophomore in Computer Engineering and Digital Technology  
+🎓 Junior in Computer Engineering and Digital Technology  
+🏫 Chulalongkorn University
 📍 Bangkok, Thailand  
 📬 taksaphorn.tpd@gmail.com  
-🌐 [Hotel Booking Project (Vercel)](https://kodjenggg-hotelbooking.vercel.app/)
 
 ---
 
@@ -52,7 +52,7 @@ I'm always eager to take on real-world challenges, build impactful tech solution
 
 - Languages: `C` `C++` `Python` `JavaScript` `HTML/CSS`  
 - Frameworks: `Node.js` `TypeScript`  
-- Tools: `MongoDB` `Apache Spark` `Streamlit` `EC2` `Vercel`
+- Tools: `MongoDB` `Apache Spark` `Streamlit` `EC2` `Vercel` `Power BI`
 
 ---
 
