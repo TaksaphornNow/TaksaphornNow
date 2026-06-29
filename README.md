@@ -1,8 +1,11 @@
 # 💻 Taksaphorn Thaipakdee
 
 🎓 Rising Fourth-Year Computer Engineering and Digital Technology Student
+
 🏫 Chulalongkorn University
+
 📍 Bangkok, Thailand
+
 📬 [taksaphorn.tpd@gmail.com](mailto:taksaphorn.tpd@gmail.com)
 
 ---
