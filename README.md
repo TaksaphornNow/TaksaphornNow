@@ -1,73 +1,115 @@
 # 💻 Taksaphorn Thaipakdee
 
-🎓 Junior in Computer Engineering and Digital Technology  
+🎓 Rising Fourth-Year Computer Engineering and Digital Technology Student
 🏫 Chulalongkorn University
-📍 Bangkok, Thailand  
-📬 taksaphorn.tpd@gmail.com  
+📍 Bangkok, Thailand
+📬 [taksaphorn.tpd@gmail.com](mailto:taksaphorn.tpd@gmail.com)
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-Hi! I'm Taksaphorn, a passionate Computer Engineering student at Chulalongkorn University. I’m currently diving deep into full-stack web development, data engineering, and scalable backend technologies.
+Hi! I'm Taksaphorn, a Computer Engineering student at Chulalongkorn University passionate about **Cloud Computing, AI, and Data Engineering**.
 
-I'm always eager to take on real-world challenges, build impactful tech solutions, and collaborate with innovative teams. I bring strong skills in C/C++, JavaScript, and Python, and I’m committed to continuous learning and improvement.
-
----
-
-## 💼 Experience
-
-- **Intern – Data Engineering & Visualization** @ *Inteltion* (May–July 2025)  
-- **Intern – Product & Business Solution** @ *Krungthai Bank* (May–July 2024)  
-- **Innovation Team Member** @ *Impvest Club* (Jan 2025 – Present)
+I'm currently a **Cloud Solution Architect Intern at Huawei Cloud**, where I work on cloud solution design, migration architectures, and enterprise cloud projects. I enjoy designing scalable systems, solving complex technical problems, and continuously learning emerging technologies.
 
 ---
 
-## 🚀 Projects
+# 💼 Experience
 
-### 🌐 Full-Stack Web Applications
-- **Hotel Booking System**  
-  → Built with HTML, CSS, JavaScript, TypeScript, Node.js, deployed on Vercel  
-  → Live: [kodjenggg-hotelbooking.vercel.app](https://kodjenggg-hotelbooking.vercel.app/)
+### ☁️ Cloud Solution Architect Intern | Huawei Cloud *(Jun 2026 – Present)*
 
-- **Internet Forum (Message Board)**  
-  → Full-stack app using Node.js and deployed on AWS EC2
+* Designed cloud solutions and migration architectures based on customer requirements.
+* Collaborated with cross-functional teams to deliver Huawei Cloud solutions.
 
-### 📊 Data Engineering & AI
-- **Data Analysis & Visualization Pipeline**  
-  → Extracted academic data from Scopus/OpenAlex APIs  
-  → Stored in MongoDB and processed via Apache Spark  
-  → Built interactive dashboards in Streamlit using AI/ML semantic search
+### 📊 Data Visualization & Data Engineering Intern | Inteltion *(May 2025 – Jul 2025)*
 
----
+* Developed Power BI dashboards and Azure Data Factory pipelines.
+* Performed data validation and testing to ensure reporting quality.
 
-## 🏅 Certificates & Awards
+### 🚀 AI Developer | LAWDEE Senior Project *(Aug 2025 – May 2026)*
 
-- 🥈 **2nd Place** – Innovation-driven Enterprise Design Thinking Workshop @ Bangkok Bank  
-- 🧠 **Thailand Olympiad in Informatics 2022 (TOI18)** – POSN Samsen Center Representative
+* Designed the end-to-end system architecture for an AI-powered legal web application.
+* Developed AI-powered features and supported cloud deployment.
 
----
+### 💼 Product & Business Solutions Intern | Krungthai Bank *(May 2024 – Jul 2024)*
 
-## 🛠️ Tech Stack
-
-- Languages: `C` `C++` `Python` `JavaScript` `HTML/CSS`  
-- Frameworks: `Node.js` `TypeScript`  
-- Tools: `MongoDB` `Apache Spark` `Streamlit` `EC2` `Vercel` `Power BI`
+* Applied Design Thinking to improve digital banking experiences.
+* Conducted user research, prototyping, and usability testing.
 
 ---
 
-## 🌏 Languages
+# 🚀 Featured Projects
 
-- **English** – TOEFL ITP: 530  
-- **Chinese** – HSK4  
+### ⚖️ LAWDEE – AI-Powered Legal Web Application
+
+* Designed the end-to-end architecture of an AI-powered legal platform.
+* Developed AI-powered matching features and deployed cloud services.
+
+### 🌐 Hotel Booking System
+
+* Full-stack web application built with TypeScript, Node.js, and deployed on Vercel.
+* 🔗 https://kodjenggg-hotelbooking.vercel.app/
+
+### 💬 Internet Forum
+
+* Built a full-stack discussion platform using Node.js and AWS EC2.
+
+### 📈 Research Data Engineering Platform
+
+* Built a data pipeline using Scopus/OpenAlex APIs, MongoDB, Apache Spark, and Streamlit for AI-assisted research analytics.
 
 ---
 
-## 🎉 Extracurricular Activities
+# 🏅 Certificates & Awards
 
-- 👷 Engineering Student Committee – Internal Affairs, CSR (ESC66–ESC68)  
-- 🎭 Event Manager @ *Event Vibe Club* – Led event planning & coordination in 2024
+* HCCDA-Tech Essentials
+* HCCDA-AI
+* HCCDP-GaussDB
+* 🥈 2nd Place — Innovation-driven Enterprise Design Thinking Workshop (Bangkok Bank)
+* 🧠 Thailand Olympiad in Informatics (TOI18) — POSN Samsen Center Representative
 
 ---
 
-> 💬 I'm open to internships, collaborations, and fun projects! Let’s connect and build something cool.
+# 🛠️ Technical Skills
+
+### Programming
+
+`Python` `Java` `C/C++` `JavaScript` `TypeScript` `SQL`
+
+### Web Development
+
+`React` `Next.js` `Node.js` `Tailwind CSS`
+
+### Cloud & DevOps
+
+`Huawei Cloud` `Docker` `Kubernetes` `Terraform` `Ansible` `Git`
+
+### Data & AI
+
+`Azure Data Factory` `Power BI`
+
+### Others
+
+`Figma` `ESP32` `Arduino`
+
+---
+
+# 🌏 Languages
+
+* 🇬🇧 English — TOEFL ITP 530
+* 🇨🇳 Chinese — HSK4
+
+---
+
+# 🎉 Leadership & Activities
+
+* Co-Head of Corporate Social Responsibility (CSR), Engineering Student Committee
+* Head of Events, Event Vibe Club
+* Internal Affairs Member, Engineering Student Committee
+
+---
+
+# 📫 Let's Connect!
+
+I'm always interested in discussing **Cloud Computing, AI, Solution Architecture, and Open Source**. Feel free to connect, collaborate, or explore my projects!
