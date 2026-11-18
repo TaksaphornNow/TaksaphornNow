@@ -1,6 +1,6 @@
 # 💻 Taksaphorn Thaipakdee
 
-🎓 Rising Fourth-Year Computer Engineering and Digital Technology Student
+🎓 Computer Engineering and Digital Technology Student
 
 🏫 Chulalongkorn University
 
