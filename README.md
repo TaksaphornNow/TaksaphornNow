@@ -14,7 +14,7 @@
 
 Hi! I'm Taksaphorn, a Computer Engineering student at Chulalongkorn University passionate about **Cloud Computing, AI, and Data Engineering**.
 
-I'm currently a **Cloud Solution Architect Intern at Huawei Cloud**, where I work on cloud solution design, migration architectures, and enterprise cloud projects. I enjoy designing scalable systems, solving complex technical problems, and continuously learning emerging technologies.
+I'm currently a **Cloud Solution Architect at Huawei Cloud**, where I work on cloud solution design, migration architectures, and enterprise cloud projects. I enjoy designing scalable systems, solving complex technical problems, and continuously learning emerging technologies.
 
 ---
 
