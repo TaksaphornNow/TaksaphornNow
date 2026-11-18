@@ -20,7 +20,7 @@ I'm currently a **Cloud Solution Architect Intern at Huawei Cloud**, where I wor
 
 # 💼 Experience
 
-### ☁️ Cloud Solution Architect Intern | Huawei Cloud *(Jun 2026 – Present)*
+### ☁️ Cloud Solution Architect | Huawei Cloud *(Jun 2026 – Present)*
 
 * Designed cloud solutions and migration architectures based on customer requirements.
 * Collaborated with cross-functional teams to deliver Huawei Cloud solutions.
